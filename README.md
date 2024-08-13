@@ -1,6 +1,7 @@
 # From idea to code to image: creative data visualizations in R
 Slides and resources for the posit:conf(2024) talk "From idea to code to image: creative data visualizations in R"
-
+  
+  
 ## Links from the slides
 [Data Strings](https://www.domesticstreamers.com/work/data-strings/)  
 [Transfer Calligraphy](http://goldensectiongraphics.blogspot.com/2011/03/malofiej19-awards.html)  
@@ -33,8 +34,8 @@ Slides and resources for the posit:conf(2024) talk "From idea to code to image: 
 [MetBrewer](https://github.com/BlakeRMills/MetBrewer)  
 
 [Steal Like an Artist](https://austinkleon.com/steal/)  
-
-
+  
+  
 ## Data visualization  
 [Data Visualization Society](https://www.datavisualizationsociety.org)  
 [FLOWINGDATA](https://flowingdata.com)  
@@ -43,7 +44,8 @@ Slides and resources for the posit:conf(2024) talk "From idea to code to image: 
 [Data Vis Dispatch](https://blog.datawrapper.de/category/data-vis-dispatch)  
 [Financial Times Visual Vocabulary](https://github.com/Financial-Times/chart-doctor/blob/main/visual-vocabulary/README.md)  
 [The R Graph Gallery](https://r-graph-gallery.com)  
-
+  
+  
 ## GitHub repositories for inspiration
 [Cédric Scherer](https://github.com/z3tt)  
 [Ansgar Wolsing](https://github.com/bydata)  
@@ -53,6 +55,7 @@ Slides and resources for the posit:conf(2024) talk "From idea to code to image: 
 [Deepali Kank](https://github.com/deepdk)  
 [Jake Kaupp](https://github.com/jkaupp/tidytuesdays)  
 
+   
 ## Online challenges
 TidyTuesday](https://github.com/rfordatascience/tidytuesday/tree/master)  
 [30DayChartChallenge](https://github.com/30DayChartChallenge/Edition2024)  
