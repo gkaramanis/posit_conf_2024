@@ -1,2 +1,2 @@
-# posit_conf_2024
-Slides and resources for the talk "From idea to code to image: creative data visualizations in R"
+# From idea to code to image: creative data visualizations in R
+Slides and resources for the posit:conf(2024) talk "From idea to code to image: creative data visualizations in R"
