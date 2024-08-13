@@ -6,33 +6,20 @@ Slides and resources for the posit:conf(2024) talk "From idea to code to image: 
 [Data Strings](https://www.domesticstreamers.com/work/data-strings/)  
 [Transfer Calligraphy](http://goldensectiongraphics.blogspot.com/2011/03/malofiej19-awards.html)  
 [PHOTOVIZ](https://gestalten.com/products/photoviz)  
-
 [Grammar of Graphics (GG) basics](https://r.qcbs.ca/workshop03/book-en/grammar-of-graphics-gg-basics.html)  
 [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/)  
-
 [Carbon footprint graphic](https://www.cleanmetrics.com/blog/2020/07/04/case-study-meat-eaters-guide/)  
-
 [ggcirclepack](https://github.com/EvaMaeRey/ggcirclepack)  
 [ggsoccer](https://torvaney.github.io/ggsoccer/)  
-
 [Japanese Contributions to Data Visualisation - The Dataviz Catalogue](https://datavizcatalogue.com/blog/japanese-contributions-to-data-visualisation/)  
-
 [Natalia Kiseleva](http://eolay.tilda.ws/en)  
-
 [truchet](https://github.com/paezha/truchet)  
-
 [Cédric Scherer](https://github.com/z3tt)  
-
 [Visualizing with text](https://richardbrath.wordpress.com/books-and-chapters-by-richard-brath/visualizing-with-text-book-companion-web-site/)  
-
 [geom_spring()](https://ggplot2-book.org/ext-springs)  
-
 [ggplot_build()](https://ggplot2.tidyverse.org/reference/ggplot_build.html)  
-
 [TidyTuesday](https://github.com/rfordatascience/tidytuesday/tree/master)  
-
 [MetBrewer](https://github.com/BlakeRMills/MetBrewer)  
-
 [Steal Like an Artist](https://austinkleon.com/steal/)  
   
   
