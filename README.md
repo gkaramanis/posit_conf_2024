@@ -23,7 +23,7 @@ Slides and resources for the posit:conf(2024) talk "From idea to code to image: 
 [Steal Like an Artist](https://austinkleon.com/steal/)  
   
   
-## Data visualization  
+## Data visualization blogs and websites  
 [Data Visualization Society](https://www.datavisualizationsociety.org)  
 [FLOWINGDATA](https://flowingdata.com)  
 [Information is Beautiful](https://informationisbeautiful.net)  
@@ -34,13 +34,13 @@ Slides and resources for the posit:conf(2024) talk "From idea to code to image: 
   
   
 ## GitHub repositories for inspiration
+[Ansgar Wolsing](https://github.com/bydata) 
 [Cédric Scherer](https://github.com/z3tt)  
-[Ansgar Wolsing](https://github.com/bydata)  
-[Cara Thompson](https://github.com/cararthompson)  
-[Tanya Shapiro](https://github.com/tashapiro)  
-[Nicola Rennie](https://github.com/nrennie)  
+[Cara Thompson](https://github.com/cararthompson)   
 [Deepali Kank](https://github.com/deepdk)  
 [Jake Kaupp](https://github.com/jkaupp/tidytuesdays)  
+[Nicola Rennie](https://github.com/nrennie)  
+[Tanya Shapiro](https://github.com/tashapiro)  
 
    
 ## Online challenges
