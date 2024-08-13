@@ -34,7 +34,7 @@ Slides and resources for the posit:conf(2024) talk "From idea to code to image: 
   
   
 ## GitHub repositories for inspiration
-[Ansgar Wolsing](https://github.com/bydata) 
+[Ansgar Wolsing](https://github.com/bydata)  
 [Cédric Scherer](https://github.com/z3tt)  
 [Cara Thompson](https://github.com/cararthompson)   
 [Deepali Kank](https://github.com/deepdk)  
