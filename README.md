@@ -44,7 +44,7 @@ Slides and resources for the posit:conf(2024) talk "From idea to code to image: 
 
    
 ## Online challenges
-TidyTuesday](https://github.com/rfordatascience/tidytuesday/tree/master)  
+[TidyTuesday](https://github.com/rfordatascience/tidytuesday/tree/master)  
 [30DayChartChallenge](https://github.com/30DayChartChallenge/Edition2024)  
 [30DayMapChallenge](https://30daymapchallenge.com)  
 [Map Prompt Monday](https://github.com/MapPromptMonday)  
