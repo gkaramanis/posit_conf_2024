@@ -1,6 +1,7 @@
 # From idea to code to image: creative data visualizations in R
 Slides and resources for the posit:conf(2024) talk "From idea to code to image: creative data visualizations in R"
-  
+
+Talk: https://www.youtube.com/watch?v=mMSitMwXem0  
   
 ## Links from the slides
 [Data Strings](https://www.domesticstreamers.com/work/data-strings/)  
